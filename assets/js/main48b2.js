@@ -142,7 +142,7 @@
             speed: 1000,
             arrows: true,
             autoplay: false,
-            slidesToShow: 10,
+            slidesToShow: 7,
             slidesToScroll: 1,
             loop: true,
             adaptiveHeight: true,
